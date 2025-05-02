@@ -1,9 +1,12 @@
 import './App.css'
 
 function App() {
+  const lastModifiedDate = import.meta.env.VITE_APP_LAST_MODIFIED_DATE || 'N/A';
+
   return (
     <>
-      <p>스탑콜 앱 다운로드</p>
+      <h1>스탑콜 테스트 앱</h1>
+      <p className="last-modified">최근 앱 수정 날짜: {lastModifiedDate}</p>
       <div className="app-download-buttons">
         <a 
           href="itms-services://?action=download-manifest&url=https://sskrtt.github.io/stopcall-web/manifest.plist"
