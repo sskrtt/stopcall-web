@@ -291,6 +291,34 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>CapacitorPushNotifications.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>CapacitorSplashScreen.framework</string>
 					<key>team</key>
 					<dict>
@@ -357,6 +385,202 @@
 					</dict>
 					<key>versionNumber</key>
 					<string>7.2.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.4.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.12.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseCoreInternal.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.12.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseInstallations.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.12.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FirebaseMessaging.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>11.12.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleDataTransport.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>10.1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleUtilities.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>8.1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
@@ -554,11 +778,41 @@
 					<key>versionNumber</key>
 					<string>2.18.2</string>
 				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D55746283EE9CE0B57A301D98E723E57954CCEB2</string>
+						<key>dateExpires</key>
+						<string>4/30/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>3.30910.0</string>
+				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
 				<string>6UY4DK39TU.kr.co.stopcall.test</string>
+				<key>aps-environment</key>
+				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>6UY4DK39TU</string>
 				<key>get-task-allow</key>
@@ -569,7 +823,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>351c4206-13ed-4e48-a8a8-0b8ac949e668</string>
+				<string>76a50fa1-20e5-4834-a545-123b0db842d0</string>
 				<key>dateExpires</key>
 				<string>4/30/26</string>
 				<key>name</key>
