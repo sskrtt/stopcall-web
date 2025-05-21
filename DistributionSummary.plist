@@ -810,7 +810,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>6UY4DK39TU.kr.co.stopcall.test</string>
+				<string>6UY4DK39TU.kr.co.stopcall.app</string>
 				<key>aps-environment</key>
 				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
@@ -823,11 +823,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>76a50fa1-20e5-4834-a545-123b0db842d0</string>
+				<string>52a0edc5-6e92-4e75-8f1c-e2c6b44cd2d6</string>
 				<key>dateExpires</key>
 				<string>4/30/26</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: kr.co.stopcall.test</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: kr.co.stopcall.app</string>
 			</dict>
 			<key>team</key>
 			<dict>
