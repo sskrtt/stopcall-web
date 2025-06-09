@@ -151,6 +151,62 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>CapacitorClipboard.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<key>dateExpires</key>
+						<string>5/26/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CapacitorCommunityAppleSignIn.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.0.1</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<key>dateExpires</key>
+						<string>5/26/26</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>CapacitorDevice.framework</string>
 					<key>team</key>
 					<dict>
@@ -813,6 +869,10 @@
 				<string>6UY4DK39TU.kr.co.stopcall.app</string>
 				<key>aps-environment</key>
 				<string>production</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
 				<key>com.apple.developer.team-identifier</key>
 				<string>6UY4DK39TU</string>
 				<key>get-task-allow</key>
@@ -823,7 +883,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>cca1174e-1414-4daa-bc4b-21b61c32f6eb</string>
+				<string>9acd5565-f89b-4baa-8602-ecefa708ddd1</string>
 				<key>dateExpires</key>
 				<string>5/26/26</string>
 				<key>name</key>
