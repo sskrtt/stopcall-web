@@ -1,22 +1,43 @@
 /* ...existing code... */
 
+.app-store-section, .test-app-section {
+  margin-bottom: 40px;
+}
+
+.app-store-section h2, .test-app-section h2 {
+  color: #FF8E00;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
 .app-download-buttons {
   display: flex;
   flex-direction: row;
   gap: 20px;
-  margin-top: 30px;
+  margin-top: 20px;
   justify-content: center;
+}
+
+.test-download-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .download-button {
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+  padding: 12px 24px;
   border-radius: 8px;
   text-decoration: none;
   color: white;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
   transition: all 0.3s ease;
+  min-width: 160px;
 }
 
 .ios-button {
@@ -25,8 +46,18 @@
 }
 
 .android-button {
-  background-color: #0F9D58;
-  border: 1px solid #0F9D58;
+  background-color: #01875F;
+  border: 1px solid #01875F;
+}
+
+.ios-test-button {
+  background-color: #007AFF;
+  border: 1px solid #007AFF;
+}
+
+.android-test-button {
+  background-color: #FF8E00;
+  border: 1px solid #FF8E00;
 }
 
 .download-button:hover {
@@ -36,35 +67,45 @@
 
 .button-icon {
   font-size: 24px;
-  margin-right: 10px;
+  margin-right: 12px;
 }
 
 .button-text {
   display: flex;
   flex-direction: column;
+  text-align: left;
 }
 
 .button-small-text {
   font-size: 12px;
   font-weight: normal;
+  opacity: 0.9;
 }
 
 .button-large-text {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
 }
 
 @media (max-width: 768px) {
-  .app-download-buttons {
+  .app-download-buttons, .test-download-buttons {
     flex-direction: column;
     align-items: center;
     gap: 15px;
+  }
+  
+  .test-download-buttons > div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
 .last-modified {
   text-align: center;
   font-size: 14px;
-  color: #FF8E00; /* Primary color */
+  color: #FF8E00;
   margin-top: 10px;
+  margin-bottom: 30px;
 }
