@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+				<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 				<key>dateExpires</key>
 				<string>5/26/26</string>
 				<key>type</key>
-				<string>Apple Distribution</string>
+				<string>Cloud Managed Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Alamofire.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Capacitor.framework</string>
@@ -88,11 +88,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorApp.framework</string>
@@ -116,11 +116,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorBrowser.framework</string>
@@ -144,11 +144,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorClipboard.framework</string>
@@ -172,11 +172,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorCommunityAppleSignIn.framework</string>
@@ -200,11 +200,39 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CapacitorCommunityContacts.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.0.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
+						<key>dateExpires</key>
+						<string>5/26/26</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorDevice.framework</string>
@@ -228,11 +256,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorHaptics.framework</string>
@@ -256,11 +284,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorKakaoLoginPlugin.framework</string>
@@ -284,11 +312,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorKeyboard.framework</string>
@@ -312,11 +340,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorPluginSafeArea.framework</string>
@@ -340,11 +368,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorPushNotifications.framework</string>
@@ -368,11 +396,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorShare.framework</string>
@@ -396,11 +424,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorSplashScreen.framework</string>
@@ -424,11 +452,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>CapacitorStatusBar.framework</string>
@@ -452,11 +480,39 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>CapgoCapacitorNavigationBar.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>6UY4DK39TU</string>
+						<key>name</key>
+						<string>Korea Federation of Crane Council</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>7.1.21</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
+						<key>dateExpires</key>
+						<string>5/26/26</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>Cordova.framework</string>
@@ -480,11 +536,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FBLPromises.framework</string>
@@ -508,11 +564,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCore.framework</string>
@@ -536,11 +592,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseCoreInternal.framework</string>
@@ -564,11 +620,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseInstallations.framework</string>
@@ -592,11 +648,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>FirebaseMessaging.framework</string>
@@ -620,11 +676,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleDataTransport.framework</string>
@@ -648,11 +704,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>GoogleUtilities.framework</string>
@@ -676,11 +732,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKAuth.framework</string>
@@ -704,11 +760,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKCommon.framework</string>
@@ -732,11 +788,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKShare.framework</string>
@@ -760,11 +816,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKStory.framework</string>
@@ -788,11 +844,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKTalk.framework</string>
@@ -816,11 +872,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKTemplate.framework</string>
@@ -844,11 +900,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>KakaoSDKUser.framework</string>
@@ -872,11 +928,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F91E1FB8D81320F64DA4C40921432DAF43686EA1</string>
+						<string>F2EBFFF7EB5A95D1939EFFCB84E7DC1807672521</string>
 						<key>dateExpires</key>
 						<string>5/26/26</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
@@ -911,7 +967,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>9acd5565-f89b-4baa-8602-ecefa708ddd1</string>
+				<string>52f90d6c-8a0e-41a7-8d0f-6ee139d0bad6</string>
 				<key>dateExpires</key>
 				<string>5/26/26</string>
 				<key>name</key>
